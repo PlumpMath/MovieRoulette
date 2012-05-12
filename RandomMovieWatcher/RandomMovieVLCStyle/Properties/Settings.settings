@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MovieRoulette.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Player" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VLC</Value>
+    </Setting>
+    <Setting Name="VLCLanLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\VideoLAN\VLC\vlc.exe</Value>
+    </Setting>
+    <Setting Name="WMPLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Windows Media Player\wmplayer.exe</Value>
+    </Setting>
+    <Setting Name="DefaultLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

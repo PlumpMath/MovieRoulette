@@ -1,0 +1,16 @@
+C:\Users\Shafer\Documents\Code12\RandomMovie\RandomMovieWatcher\RandomMovieVLCStyle\bin\Debug\RandomMovieVLCStyle.exe
+C:\Users\Shafer\Documents\Code12\RandomMovie\RandomMovieWatcher\RandomMovieVLCStyle\bin\Debug\RandomMovieVLCStyle.pdb
+C:\Users\Shafer\Documents\Code12\RandomMovie\RandomMovieWatcher\RandomMovieVLCStyle\obj\x86\Debug\MainWindow.baml
+C:\Users\Shafer\Documents\Code12\RandomMovie\RandomMovieWatcher\RandomMovieVLCStyle\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Shafer\Documents\Code12\RandomMovie\RandomMovieWatcher\RandomMovieVLCStyle\obj\x86\Debug\App.g.cs
+C:\Users\Shafer\Documents\Code12\RandomMovie\RandomMovieWatcher\RandomMovieVLCStyle\obj\x86\Debug\RandomMovieVLCStyle_MarkupCompile.cache
+C:\Users\Shafer\Documents\Code12\RandomMovie\RandomMovieWatcher\RandomMovieVLCStyle\obj\x86\Debug\RandomMovieVLCStyle.g.resources
+C:\Users\Shafer\Documents\Code12\RandomMovie\RandomMovieWatcher\RandomMovieVLCStyle\obj\x86\Debug\RandomMovieVLCStyle.Properties.Resources.resources
+C:\Users\Shafer\Documents\Code12\RandomMovie\RandomMovieWatcher\RandomMovieVLCStyle\obj\x86\Debug\RandomMovieVLCStyle.csproj.GenerateResource.Cache
+C:\Users\Shafer\Documents\Code12\RandomMovie\RandomMovieWatcher\RandomMovieVLCStyle\obj\x86\Debug\RandomMovieVLCStyle.exe
+C:\Users\Shafer\Documents\Code12\RandomMovie\RandomMovieWatcher\RandomMovieVLCStyle\obj\x86\Debug\RandomMovieVLCStyle.pdb
+C:\Users\Shafer\Documents\Code12\RandomMovie\RandomMovieWatcher\RandomMovieVLCStyle\obj\x86\Debug\App.baml
+C:\Users\Shafer\Documents\Code12\RandomMovie\RandomMovieWatcher\RandomMovieVLCStyle\bin\Debug\RandomMovieVLCStyle.exe.manifest
+C:\Users\Shafer\Documents\Code12\RandomMovie\RandomMovieWatcher\RandomMovieVLCStyle\bin\Debug\RandomMovieVLCStyle.application
+C:\Users\Shafer\Documents\Code12\RandomMovie\RandomMovieWatcher\RandomMovieVLCStyle\obj\x86\Debug\RandomMovieVLCStyle.exe.manifest
+C:\Users\Shafer\Documents\Code12\RandomMovie\RandomMovieWatcher\RandomMovieVLCStyle\obj\x86\Debug\RandomMovieVLCStyle.application
