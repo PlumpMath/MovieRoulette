@@ -1,1 +1,1 @@
-"first commit" 
+This is the source code for the WPF application, I used Visual Studio 11 to design it, but it also works fine in Visual Studio 10.  If you have any problems with it, please let me know.  I've only encountered one instance where the published version would not install on a friend's computer.
