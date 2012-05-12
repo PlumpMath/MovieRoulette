@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="MovieRoulette.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <MovieRoulette.Properties.Settings>
+            <setting name="Player" serializeAs="String">
+                <value>VLC</value>
+            </setting>
+            <setting name="VLCLanLocation" serializeAs="String">
+                <value>C:\Program Files (x86)\VideoLAN\VLC\vlc.exe</value>
+            </setting>
+            <setting name="WMPLocation" serializeAs="String">
+                <value>C:\Program Files\Windows Media Player\wmplayer.exe</value>
+            </setting>
+            <setting name="DefaultLocation" serializeAs="String">
+                <value />
+            </setting>
+        </MovieRoulette.Properties.Settings>
+    </userSettings>
+</configuration>
